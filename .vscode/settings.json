@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Unity_AR_Furniture_APP_partseg_test.sln"
+    "dotnet.defaultSolution": "PartSeg_Model_recon_test.sln"
 }
